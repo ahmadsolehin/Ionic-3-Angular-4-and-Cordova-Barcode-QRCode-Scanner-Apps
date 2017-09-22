@@ -1,5 +1,7 @@
 # Ionic 3 Angular 4 Cordova Barcode and QRCode Scanner
 
+## screenshot
+
 Steps to run on devices:
 * Clone this repository
 * Connect your phone to your computer
