@@ -14,6 +14,7 @@ The following tools, modules, and dependencies should prepare before starting :
 
 ![nn](https://user-images.githubusercontent.com/12325386/30738934-46cd1dc8-9fbe-11e7-889c-02be0b7182b7.JPG)
 
+![nn](https://user-images.githubusercontent.com/12325386/30739038-9da40f76-9fbe-11e7-990c-dbe72c71be1f.JPG)
 
 Steps to run on devices:
 * Clone this repository
