@@ -16,6 +16,8 @@ The following tools, modules, and dependencies should prepare before starting :
 
 ![nn](https://user-images.githubusercontent.com/12325386/30739038-9da40f76-9fbe-11e7-990c-dbe72c71be1f.JPG)
 
+![nn](https://user-images.githubusercontent.com/12325386/30739097-d3a18d2e-9fbe-11e7-8d06-ea2ebe63afe1.JPG)
+
 Steps to run on devices:
 * Clone this repository
 * Connect your phone to your computer
