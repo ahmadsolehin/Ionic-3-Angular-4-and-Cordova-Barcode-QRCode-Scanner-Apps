@@ -2,6 +2,9 @@
 
 ## screenshot
 
+![nn](https://user-images.githubusercontent.com/12325386/30738934-46cd1dc8-9fbe-11e7-889c-02be0b7182b7.JPG)
+
+
 Steps to run on devices:
 * Clone this repository
 * Connect your phone to your computer
