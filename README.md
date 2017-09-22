@@ -1,6 +1,6 @@
 # Ionic 3 Angular 4 Cordova Barcode and QRCode Scanner
 
-The following tools, modules, and dependencies should prepare before starting the tutorial:
+The following tools, modules, and dependencies should prepare before starting :
 
 - Node.js (Stable or recommended version)
 - Latest Ionic 3, Angular 4 and Cordova
